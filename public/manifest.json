@@ -1,5 +1,5 @@
 {
-    "homepage": "https://bharaniyhao.github.io/ReactNote",
+    "homepage": "https://github.com/bharaniyhao/ReactNote.github.io.git",
     "short_name": "React App",
     "name": "Create React App Sample",
     "icons": [{
@@ -18,7 +18,7 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": "https://bharaniyhao.github.io/ReactNote",
+    "start_url": "https://github.com/bharaniyhao/ReactNote.github.io.git",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"
